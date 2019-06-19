@@ -1,3 +1,4 @@
+#modul9
 #soal nomor 6 & 7
 
 class simpulbiner(object):
